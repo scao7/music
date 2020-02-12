@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Theme Dream</title>
+    <title>Tags on 胜庭的乐谱仓库</title>
     <link>https://wp-shengting.net/tags/</link>
-    <description>Recent content in Tags on Hugo Theme Dream</description>
+    <description>Recent content in Tags on 胜庭的乐谱仓库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <lastBuildDate>Mon, 30 Dec 2019 22:36:49 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 22:36:49 +0800</lastBuildDate>
     
 	<atom:link href="https://wp-shengting.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ACG</title>
+      <link>https://wp-shengting.net/tags/acg/</link>
+      <pubDate>Sat, 08 Feb 2020 22:36:49 +0800</pubDate>
+      
+      <guid>https://wp-shengting.net/tags/acg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>笛子</title>
+      <link>https://wp-shengting.net/tags/%E7%AC%9B%E5%AD%90/</link>
+      <pubDate>Sat, 08 Feb 2020 22:36:49 +0800</pubDate>
+      
+      <guid>https://wp-shengting.net/tags/%E7%AC%9B%E5%AD%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>謝明琪鋼琴教室</title>
       <link>https://wp-shengting.net/tags/%E8%AC%9D%E6%98%8E%E7%90%AA%E9%8B%BC%E7%90%B4%E6%95%99%E5%AE%A4/</link>
-      <pubDate>Mon, 30 Dec 2019 22:36:49 +0800</pubDate>
+      <pubDate>Mon, 03 Feb 2020 22:36:49 +0800</pubDate>
       
       <guid>https://wp-shengting.net/tags/%E8%AC%9D%E6%98%8E%E7%90%AA%E9%8B%BC%E7%90%B4%E6%95%99%E5%AE%A4/</guid>
       <description></description>
@@ -23,9 +41,18 @@
     <item>
       <title>鋼琴</title>
       <link>https://wp-shengting.net/tags/%E9%8B%BC%E7%90%B4/</link>
-      <pubDate>Mon, 30 Dec 2019 22:36:49 +0800</pubDate>
+      <pubDate>Mon, 03 Feb 2020 22:36:49 +0800</pubDate>
       
       <guid>https://wp-shengting.net/tags/%E9%8B%BC%E7%90%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>口琴</title>
+      <link>https://wp-shengting.net/tags/%E5%8F%A3%E7%90%B4/</link>
+      <pubDate>Thu, 30 Jan 2020 22:36:49 +0800</pubDate>
+      
+      <guid>https://wp-shengting.net/tags/%E5%8F%A3%E7%90%B4/</guid>
       <description></description>
     </item>
     

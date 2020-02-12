@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Theme Dream</title>
+    <title>Categories on 胜庭的乐谱仓库</title>
     <link>https://wp-shengting.net/categories/</link>
-    <description>Recent content in Categories on Hugo Theme Dream</description>
+    <description>Recent content in Categories on 胜庭的乐谱仓库</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <lastBuildDate>Mon, 30 Dec 2019 22:36:49 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 22:36:49 +0800</lastBuildDate>
     
 	<atom:link href="https://wp-shengting.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>笛子简谱</title>
+      <link>https://wp-shengting.net/categories/%E7%AC%9B%E5%AD%90%E7%AE%80%E8%B0%B1/</link>
+      <pubDate>Sat, 08 Feb 2020 22:36:49 +0800</pubDate>
+      
+      <guid>https://wp-shengting.net/categories/%E7%AC%9B%E5%AD%90%E7%AE%80%E8%B0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>鋼琴譜</title>
       <link>https://wp-shengting.net/categories/%E9%8B%BC%E7%90%B4%E8%AD%9C/</link>
-      <pubDate>Mon, 30 Dec 2019 22:36:49 +0800</pubDate>
+      <pubDate>Mon, 03 Feb 2020 22:36:49 +0800</pubDate>
       
       <guid>https://wp-shengting.net/categories/%E9%8B%BC%E7%90%B4%E8%AD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>口琴简谱</title>
+      <link>https://wp-shengting.net/categories/%E5%8F%A3%E7%90%B4%E7%AE%80%E8%B0%B1/</link>
+      <pubDate>Thu, 30 Jan 2020 22:36:49 +0800</pubDate>
+      
+      <guid>https://wp-shengting.net/categories/%E5%8F%A3%E7%90%B4%E7%AE%80%E8%B0%B1/</guid>
       <description></description>
     </item>
     
